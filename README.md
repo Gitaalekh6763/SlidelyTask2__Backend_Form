@@ -16,7 +16,8 @@ This is the backend server for the Google Forms Replica project, built with Expr
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Gitaalekh6763/SlidelyTask2__Backend_Form.git
    cd GoogleFormsBackend
-2. npm install
-3. npm run dev
+   ```
+2. ```npm install```
+3. ```npm run dev```
