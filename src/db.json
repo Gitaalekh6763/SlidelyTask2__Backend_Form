@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "aalekh",
+    "email": "aale@gmail.com",
+    "phone": "946132",
+    "github_link": "hmfvn.com",
+    "stopwatch_time": "00:00:03"
+  },
+  {
+    "name": "Aalekh Prasad",
+    "email": "aalekhprasad2002@gmail.com",
+    "phone": "9661796763",
+    "github_link": "https://github.com/Gitaalekh6763",
+    "stopwatch_time": "00:00:18"
+  },
+  {
+    "name": "Prasad",
+    "email": "Prasad@gmail.com",
+    "phone": "789654123",
+    "github_link": "github.com",
+    "stopwatch_time": "00:00:06"
+  }
+]
