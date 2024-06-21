@@ -1,10 +1,21 @@
-# SlidelyTask2__Backend_Form
 
-# Google Forms Replica Backend
+# Google Forms Replica
+The backend server for the Google Forms Replica task, built with Express and TypeScript. The server uses a JSON file as a database to store form submissions.
+## Setup
 
-This is the backend server for the Google Forms Replica project, built with Express and TypeScript. The server uses a JSON file as a database to store form submissions.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Gitaalekh6763/SlidelyTask2__Backend_Form
+   cd GoogleFormsBackend
+   ```
+2. ```bash
+    npm install
+    ```
+3. ```bash
+      npm run dev
+      ```
 
-## Endpoints
+## Compulsory Endpoints
 
 - **GET /ping**: Always returns `{ success: true }`
 - **POST /submit**: Accepts form data and saves it to the database
@@ -12,12 +23,8 @@ This is the backend server for the Google Forms Replica project, built with Expr
 - **GET /read**: Retrieves a form submission by index
   - Query parameter: `index` (0-based)
 
-## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Gitaalekh6763/SlidelyTask2__Backend_Form.git
-   cd GoogleFormsBackend
-   ```
-2. ```npm install```
-3. ```npm run dev```
+## Additional Endpoints
+- **Get /search : Return from data matching to email
+- **Delete /delete : Delete the form data
+- **Update /update : Update the form data
