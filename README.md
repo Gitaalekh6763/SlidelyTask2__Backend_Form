@@ -6,7 +6,7 @@ The backend server for the Google Forms Replica task, built with Express and Typ
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gitaalekh6763/SlidelyTask2__Backend_Form
-   cd SlidelyTask2_Backend_form
+   cd SlidelyTask2_Backend_Form
    ```
 2. ```bash
     npm install
